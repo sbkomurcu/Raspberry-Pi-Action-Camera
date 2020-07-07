@@ -28,11 +28,11 @@ Python program for Raspberry Pi to take pictures, images and stream to hdmi outp
 
 
 # Installation
-Green Led -> GPIO 25
+Green Led -> GPIO 13
 
-Blue Led -> GPIO 7
+Blue Led -> GPIO 19
 
-Red Led -> GPIO 8
+Red Led -> GPIO 26
 
 Picture/Video Button -> GPIO 5
 
