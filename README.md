@@ -17,13 +17,13 @@ Python program for Raspberry Pi to take pictures, images and stream to hdmi outp
 
 ● LED's are used to indicate the current process of the program, see below.;
 
-      ○ Green Led (cont.) -> Program is ready to take commands.
+    ○ Green Led (cont.) -> Program is ready to take commands.
 
-      ○ Blue Led (cont.) -> HDMI mode is active, see hdmi output.
+    ○ Blue Led (cont.) -> HDMI mode is active, see hdmi output.
 
-      ○ Red Led (cont.) -> Taking picture.
+    ○ Red Led (cont.) -> Taking picture.
 
-      ○ Red Led (blink) -> Recording video.
+    ○ Red Led (blink) -> Recording video.
 
 
 
