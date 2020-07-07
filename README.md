@@ -1,5 +1,5 @@
 # Raspberry Pi Action Camera
-Python program for Raspberry Pi to take pictures, images and stream to hdmi output by using GPIO pins. 
+Python program for Raspberry Pi to take pictures, images and stream to hdmi output by using GPIO pins and Raspberry Pi camera module. 
 
 
 # Features
