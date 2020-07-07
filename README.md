@@ -31,9 +31,11 @@ Python program for Raspberry Pi to take pictures, images and stream to hdmi outp
 
 # Installation
 
-● Enable camera support 
+● Enable camera support with the following commands:
 
-    ○ sudo raspi-config -> Select Option 5 Interfacing Options, then P1 Camera, then Yes. Exit and reboot your Pi.
+    ○ sudo raspi-config 
+    ○ Select Option 5 "Interfacing Options", then "P1 Camera", then Yes.
+    ○ Exit and reboot your Pi.
 
 ● Update your RPi with the following commands:
 
