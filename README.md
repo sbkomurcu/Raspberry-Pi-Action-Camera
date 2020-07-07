@@ -28,13 +28,34 @@ Python program for Raspberry Pi to take pictures, images and stream to hdmi outp
 
 
 # Installation
-Green Led -> GPIO 13
+● Enable camera support 
+    ○ sudo raspi-config -> Select Option 5 Interfacing Options, then P1 Camera, then Yes. Exit and reboot your Pi.
+● Update your RPi with the following commands:
+    ○ sudo apt-get update
+    ○ sudo apt-get dist-upgrade
+    ○ sudo apt-get install git
+● Clone the code from github with the following commands: 
+    ○ git clone https://github.com/sbkomurcu/Raspberry-Pi-Action-Camera.git
+    ○ cd Raspberry-Pi-Action-Camera
+● Connect buttons and leds onto GPIO pins on the RPi based on the following pins;
+    ○ Green Led -> GPIO 13
+    ○ Blue Led -> GPIO 19
+    ○ Red Led -> GPIO 26
+    ○ Picture/Video Button -> GPIO 5
+    ○ Hdmi Button -> GPIO 6
+● Run python program with the following command;
+    ○ sudo python3 main.py
+     
 
-Blue Led -> GPIO 19
 
-Red Led -> GPIO 26
 
-Picture/Video Button -> GPIO 5
 
-Hdmi Button -> GPIO 6
+
+
+
+
+
+
+
+
 
