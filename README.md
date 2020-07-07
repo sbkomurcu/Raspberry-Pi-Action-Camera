@@ -13,7 +13,7 @@ Python program for Raspberry Pi to take pictures, images and stream to hdmi outp
 
 ● Creates thumbnail pictures of the recorded media (video & picture). 
 
-● LED's are used to indicate the current process of the program, i.e.;
+● LED's are used to indicate the current process of the program, see below.;
 
       ○ Green Led (cont.) -> Program is ready to take commands.
 
