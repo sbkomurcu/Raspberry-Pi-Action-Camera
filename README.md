@@ -13,6 +13,8 @@ Python program for Raspberry Pi to take pictures, images and stream to hdmi outp
 
 ● Creates thumbnail pictures of the recorded media (video & picture). 
 
+● Pictures and videos are recorded with a name based on the date format and amount of pictures/videos in target folder. 
+
 ● LED's are used to indicate the current process of the program, see below.;
 
       ○ Green Led (cont.) -> Program is ready to take commands.
