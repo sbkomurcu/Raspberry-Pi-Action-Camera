@@ -6,14 +6,23 @@ Python program for Raspberry Pi to take pictures, images and stream to hdmi outp
 ● Take picture by just pressing on the picture/video button.
 
 ● Record video by holding the picture/video button.
+
 ● Stream camera preview to hdmi output by pressing hdmi button.
+
 ● Automatically converts recorded videos from .h264 to .mp4.
+
 ● Creates thumbnail pictures of the recorded media (video & picture). 
+
 ● LED's are used to indicate the current process of the program, i.e.;
+
       ○ Green Led (cont.) -> Program is ready to take commands.
+
       ○ Blue Led (cont.) -> HDMI mode is active, see hdmi output.
+
       ○ Red Led (cont.) -> Taking picture.
+
       ○ Red Led (blink) -> Recording video.
+
 
 
 # Installation
