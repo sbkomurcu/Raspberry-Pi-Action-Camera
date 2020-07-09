@@ -51,7 +51,7 @@ Python program for Raspberry Pi to take pictures, images and stream to hdmi outp
 
     ○ cd Raspberry-Pi-Action-Camera
 
-● Connect buttons and leds onto GPIO pins on the RPi based on the following pins;
+● Connect buttons and leds onto GPIO pins on the RPi based on the following pins ( see below for connection scheme) ;
 
     ○ Green Led -> GPIO 13
 
@@ -63,11 +63,13 @@ Python program for Raspberry Pi to take pictures, images and stream to hdmi outp
 
     ○ Hdmi Button -> GPIO 6
 
+
 ● Run python program with the following command;
 
     ○ sudo python3 main.py
 
      
+ ![alt text](https://github.com/sbkomurcu/Raspberry-Pi-Action-Camera/blob/master/scheme.jpg?raw=true)
 
 
 
